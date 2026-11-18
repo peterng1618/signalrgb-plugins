@@ -1,0 +1,43 @@
+SignalRGB 2.5.86, pid 25476, started 2026-11-12 15:15:43.
+Plugin loaded from C:/Users/peter/Documents/WhirlwindFX/Plugins/YunariBridge/YunariBridge.js
+Yunari host was NOT running (no listener on 5227), so this is the fallback path:
+devices=kraken-z:40:ring:11:11, layoutModel=Subdevices.
+
+Devices page (Fan & RGB Controllers):
+  text Yunari
+  text Controller
+
+Lighting -> Layout tab (LayoutsSideBarV2), accessible tree excerpt:
+  text Yunari
+  button ...
+  text Sub Devices
+  pane ...LayoutDeviceCard_QMLTYPE_1093
+    text Kraken Z
+
+The real Kraken device is still enabled in SignalRGB and is listed separately:
+  text NZXT Kraken Z3
+  text Sub Devices
+  text LCD
+  group child
+    text Channel 1
+    ... text Default Strip - 20
+
+Relevant log lines (SignalRGB_20261112_151544.log):
+  15:15:56.846 Starting discovery thread for
+    C:/Users/peter/Documents/WhirlwindFX/Plugins/YunariBridge/YunariBridge.js
+  15:15:57.093 Custom Plugin File Loaded for Path:
+    C:/Users/peter/Documents/WhirlwindFX/Plugins/YunariBridge/YunariBridge.js
+  15:15:57.183 Created Sub device with uid: yunari:yunari:kraken-z
+
+Note: SignalRGB prefixes the plugin's subdevice id with the controller id, so the
+actual subdevice uid is yunari:kraken-z inside controller yunari; the logged string is
+  yunari: + yunari:kraken-z.
+
+Pixel screenshots could not be captured: the session was locked when the UI check ran
+(screenshots returned the lock-screen desktop), and SignalRGB exited at 15:22:42
+right after "System Session unlocked". The text tree above is the UI evidence. No
+misleading desktop PNG is stored.
+
+Not verified here: the drawn ring shape on the canvas, live colours while Yunari runs,
+and whether the user wants the real NZXT Kraken Z3 device disabled. The ring geometry is
+asserted in tools/yunari_bridge_selfcheck.mjs (40 unique 11x11 perimeter positions).

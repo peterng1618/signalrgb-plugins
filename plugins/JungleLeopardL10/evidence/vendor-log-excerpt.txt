@@ -1,0 +1,60 @@
+5678:[2026-11-01 19:18:39.500] [info]  fillCount [
+5683:[2026-11-01 19:18:46.450] [info]  fillCount [
+5688:[2026-11-01 19:18:46.749] [info]  fillCount [
+5700:[2026-11-01 19:46:25.770] [info]  action live
+5701:[2026-11-01 19:46:25.771] [info]  action freeDraw
+5760:[2026-11-02 03:19:05.805] [info]  connect getDeviceInfo
+5761:[2026-11-02 03:19:06.007] [info]  action getDeviceInfo
+5763:[2026-11-02 03:19:11.042] [info]  getDeviceInfo result: 200
+5768:[2026-11-02 03:19:11.054] [info]  action setLight
+5769:[2026-11-02 03:19:11.054] [info]  action live
+5770:[2026-11-02 03:19:11.054] [info]  action freeDraw
+5771:[2026-11-02 03:19:11.131] [info]  fillCount [
+5788:[2026-11-02 03:22:18.147] [info]  action live
+5789:[2026-11-02 03:22:18.148] [info]  action freeDraw
+5791:[2026-11-02 03:22:25.768] [info]  action startLight
+5792:[2026-11-02 03:22:25.768] [info]  startLight:start
+5793:[2026-11-02 03:22:25.769] [info]  startLight 8 5504020000
+5794:[2026-11-02 03:22:33.769] [info]  action endLight
+5795:[2026-11-02 03:22:33.770] [info]  endLight end
+5796:[2026-11-02 03:22:33.772] [info]  action endLight
+5797:[2026-11-02 03:22:33.772] [info]  endLight end
+5798:[2026-11-02 03:22:33.801] [info]  endLight end 5504020000
+5799:[2026-11-02 03:22:33.801] [info]  endLight end 5504020000
+5809:[2026-11-02 08:24:14.957] [info]  action live
+5810:[2026-11-02 08:24:14.958] [info]  action freeDraw
+5822:[2026-11-02 09:38:17.521] [info]  action live
+5823:[2026-11-02 09:38:17.521] [info]  action freeDraw
+5839:[2026-11-02 20:07:57.425] [info]  action live
+5840:[2026-11-02 20:07:57.425] [info]  action freeDraw
+5854:[2026-11-03 02:48:11.953] [info]  action live
+5855:[2026-11-03 02:48:11.953] [info]  action freeDraw
+5884:[2026-11-03 21:26:20.586] [info]  action live
+5885:[2026-11-03 21:26:20.587] [info]  action freeDraw
+5952:[2026-11-10 21:24:18.816] [info]  connect getDeviceInfo
+5953:[2026-11-10 21:24:19.027] [info]  action getDeviceInfo
+5955:[2026-11-10 21:24:24.075] [info]  getDeviceInfo result: 200
+5960:[2026-11-10 21:24:24.093] [info]  action setLight
+5961:[2026-11-10 21:24:24.094] [info]  action live
+5962:[2026-11-10 21:24:24.095] [info]  action freeDraw
+5963:[2026-11-10 21:24:24.166] [info]  fillCount [
+6033:[2026-11-10 21:27:28.216] [info]  connect getDeviceInfo
+6035:[2026-11-10 21:27:28.421] [info]  action getDeviceInfo
+6037:[2026-11-10 21:27:33.669] [info]  getDeviceInfo result: 200
+6042:[2026-11-10 21:27:33.724] [info]  action setLight
+6043:[2026-11-10 21:27:33.726] [info]  action live
+6044:[2026-11-10 21:27:33.728] [info]  action freeDraw
+6045:[2026-11-10 21:27:34.155] [info]  fillCount [
+6053:[2026-11-10 21:27:48.176] [info]  action startLight
+6054:[2026-11-10 21:27:48.177] [info]  startLight:start
+6055:[2026-11-10 21:27:48.179] [info]  startLight 8 5504020000
+6056:[2026-11-10 21:27:56.186] [info]  action endLight
+6057:[2026-11-10 21:27:56.187] [info]  endLight end
+6058:[2026-11-10 21:27:56.221] [info]  endLight end 5504020000
+6122:[2026-11-11 00:21:09.971] [info]  connect getDeviceInfo
+6123:[2026-11-11 00:21:10.176] [info]  action getDeviceInfo
+6128:[2026-11-11 00:21:15.219] [info]  getDeviceInfo result: 200
+6133:[2026-11-11 00:21:15.231] [info]  action setLight
+6134:[2026-11-11 00:21:15.231] [info]  action live
+6135:[2026-11-11 00:21:15.231] [info]  action freeDraw
+6136:[2026-11-11 00:21:15.310] [info]  fillCount [

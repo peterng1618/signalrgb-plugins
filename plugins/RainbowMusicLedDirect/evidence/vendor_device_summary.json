@@ -1,0 +1,21 @@
+{
+ "source": "GET http://127.0.0.1:2905/GetAvalaibleDevices (rmlapp.exe running, then stopped)",
+ "deviceId": "rainbow-music-led-matrix",
+ "name": "Rainbow Music Led",
+ "vendor": "Rainbow Music Led",
+ "version": "1.0.0",
+ "leds": 322,
+ "zones": [
+  {
+   "name": "LED Matrix Zone",
+   "type": 2,
+   "ledsCount": 322,
+   "matrix": {
+    "width": 23,
+    "height": 14,
+    "keys": "row-major 23-wide [0..22],[23..45],..."
+   }
+  }
+ ],
+ "note": "Vendor app advertises a 322-LED 23x14 matrix. The actual strip reports 118 LEDs in WLED (/json/info, /json/cfg). Per the coordinator, 322 is a different configuration; layout defaults to 118x1 and is user-overridable."
+}

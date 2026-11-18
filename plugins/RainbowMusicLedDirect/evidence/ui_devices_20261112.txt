@@ -1,0 +1,43 @@
+SignalRGB 2.5.86 PID 28168, Devices page, 2026-11-12 00:27 (desktop UI text dump; text nodes)
+text Enjoying SignalRGB? Try SignalRGB Pro to unlock access to game integrations, cooling and monitoring customization, unlimited macros, and more!
+text Missing a device? Request for it to be added here
+text STAFF PICK
+text Complete your setup with the Logitech G502 X Plus
+text SignalRGB may earn a commission from qualifying purchases.
+text View Product
+text ↗
+text Fan & RGB Controllers
+text These devices control other components and may require additional setup.
+text Jungle Leopard L10 ARGB Hub
+text Controller
+text NZXT Kraken Z3
+text AIO
+button 2, Secondary Actions: SetValue
+text Rainbow Music Led
+text Controller
+text Peripherals & Hardware
+text Individual devices connected to your system.
+text Logitech Device
+text Dongle
+text Massdrop CTRL QMK Keyboard
+text Keyboard
+text Colorful CVN Z590M GAMING FROZEN V20
+text Motherboard
+text Razer Kraken Ultimate Edition
+text HeadPhones
+text PALIT 3080Ti Gaming Pro
+text GPU
+text Aura Compatible RAM
+text RAM
+text Aura Compatible RAM
+text RAM
+text Aura Compatible RAM
+text RAM
+text Aura Compatible RAM
+text RAM
+text Third Party Services
+text Connect external lighting services to sync with your PC.
+text Rainbow Music Led
+text QApplication.CoreUI.QQuickWebEngineView_QML_1020.QObject.adBanner.QObject
+text Spiral Rainbow
+text by SignalRGB

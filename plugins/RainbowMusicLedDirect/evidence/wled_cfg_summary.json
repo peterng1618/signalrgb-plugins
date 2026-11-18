@@ -1,0 +1,39 @@
+{
+ "if.sync.port0": 7778,
+ "if.sync.port1": 7780,
+ "if.live": {
+  "en": true,
+  "port": 7979,
+  "mc": false,
+  "dmx": {
+   "uni": 1,
+   "seqskip": false,
+   "e131prio": 0,
+   "addr": 1,
+   "mode": 4
+  },
+  "timeout": 25,
+  "maxbri": false,
+  "no-gc": true,
+  "offset": 0
+ },
+ "hw.led": {
+  "total": 118,
+  "maxpwr": 3500,
+  "ledma": 55,
+  "rgbwm": 3,
+  "ins": [
+   {
+    "start": 0,
+    "len": 118,
+    "pin": [
+     2
+    ],
+    "order": 0,
+    "rev": false,
+    "skip": 0,
+    "type": 22
+   }
+  ]
+ }
+}

@@ -1,0 +1,361 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="922" height="416" viewBox="0 0 922 416" font-family="Segoe UI, Arial, sans-serif">
+<rect width="100%" height="100%" fill="#ffffff"/>
+<text x="24" y="16" font-size="12" font-weight="bold" fill="#111">Massdrop CTRL — LED index / key map (119 LEDs)</text>
+<rect x="72" y="72" width="42" height="42" rx="4" fill="#eaf3ff" stroke="#3f6fa8"/>
+<text x="93" y="88" text-anchor="middle" font-size="12" font-weight="bold" fill="#111">0</text>
+<text x="93" y="102" text-anchor="middle" font-size="7" fill="#333">Esc</text>
+<rect x="118" y="72" width="42" height="42" rx="4" fill="#eaf3ff" stroke="#3f6fa8"/>
+<text x="139" y="88" text-anchor="middle" font-size="12" font-weight="bold" fill="#111">1</text>
+<text x="139" y="102" text-anchor="middle" font-size="7" fill="#333">F1</text>
+<rect x="164" y="72" width="42" height="42" rx="4" fill="#eaf3ff" stroke="#3f6fa8"/>
+<text x="185" y="88" text-anchor="middle" font-size="12" font-weight="bold" fill="#111">2</text>
+<text x="185" y="102" text-anchor="middle" font-size="7" fill="#333">F2</text>
+<rect x="210" y="72" width="42" height="42" rx="4" fill="#eaf3ff" stroke="#3f6fa8"/>
+<text x="231" y="88" text-anchor="middle" font-size="12" font-weight="bold" fill="#111">3</text>
+<text x="231" y="102" text-anchor="middle" font-size="7" fill="#333">F3</text>
+<rect x="256" y="72" width="42" height="42" rx="4" fill="#eaf3ff" stroke="#3f6fa8"/>
+<text x="277" y="88" text-anchor="middle" font-size="12" font-weight="bold" fill="#111">4</text>
+<text x="277" y="102" text-anchor="middle" font-size="7" fill="#333">F4</text>
+<rect x="302" y="72" width="42" height="42" rx="4" fill="#eaf3ff" stroke="#3f6fa8"/>
+<text x="323" y="88" text-anchor="middle" font-size="12" font-weight="bold" fill="#111">5</text>
+<text x="323" y="102" text-anchor="middle" font-size="7" fill="#333">F5</text>
+<rect x="348" y="72" width="42" height="42" rx="4" fill="#eaf3ff" stroke="#3f6fa8"/>
+<text x="369" y="88" text-anchor="middle" font-size="12" font-weight="bold" fill="#111">6</text>
+<text x="369" y="102" text-anchor="middle" font-size="7" fill="#333">F6</text>
+<rect x="394" y="72" width="42" height="42" rx="4" fill="#eaf3ff" stroke="#3f6fa8"/>
+<text x="415" y="88" text-anchor="middle" font-size="12" font-weight="bold" fill="#111">7</text>
+<text x="415" y="102" text-anchor="middle" font-size="7" fill="#333">F7</text>
+<rect x="440" y="72" width="42" height="42" rx="4" fill="#eaf3ff" stroke="#3f6fa8"/>
+<text x="461" y="88" text-anchor="middle" font-size="12" font-weight="bold" fill="#111">8</text>
+<text x="461" y="102" text-anchor="middle" font-size="7" fill="#333">F8</text>
+<rect x="486" y="72" width="42" height="42" rx="4" fill="#eaf3ff" stroke="#3f6fa8"/>
+<text x="507" y="88" text-anchor="middle" font-size="12" font-weight="bold" fill="#111">9</text>
+<text x="507" y="102" text-anchor="middle" font-size="7" fill="#333">F9</text>
+<rect x="532" y="72" width="42" height="42" rx="4" fill="#eaf3ff" stroke="#3f6fa8"/>
+<text x="553" y="88" text-anchor="middle" font-size="12" font-weight="bold" fill="#111">10</text>
+<text x="553" y="102" text-anchor="middle" font-size="7" fill="#333">F10</text>
+<rect x="578" y="72" width="42" height="42" rx="4" fill="#eaf3ff" stroke="#3f6fa8"/>
+<text x="599" y="88" text-anchor="middle" font-size="12" font-weight="bold" fill="#111">11</text>
+<text x="599" y="102" text-anchor="middle" font-size="7" fill="#333">F11</text>
+<rect x="624" y="72" width="42" height="42" rx="4" fill="#eaf3ff" stroke="#3f6fa8"/>
+<text x="645" y="88" text-anchor="middle" font-size="12" font-weight="bold" fill="#111">12</text>
+<text x="645" y="102" text-anchor="middle" font-size="7" fill="#333">F12</text>
+<rect x="716" y="26" width="42" height="42" rx="4" fill="#eaf3ff" stroke="#3f6fa8"/>
+<text x="737" y="42" text-anchor="middle" font-size="12" font-weight="bold" fill="#111">13</text>
+<text x="737" y="56" text-anchor="middle" font-size="7" fill="#333">PrintScreen</text>
+<rect x="762" y="72" width="42" height="42" rx="4" fill="#eaf3ff" stroke="#3f6fa8"/>
+<text x="783" y="88" text-anchor="middle" font-size="12" font-weight="bold" fill="#111">14</text>
+<text x="783" y="102" text-anchor="middle" font-size="7" fill="#333">ScrollLock</text>
+<rect x="808" y="72" width="42" height="42" rx="4" fill="#eaf3ff" stroke="#3f6fa8"/>
+<text x="829" y="88" text-anchor="middle" font-size="12" font-weight="bold" fill="#111">15</text>
+<text x="829" y="102" text-anchor="middle" font-size="7" fill="#333">PauseBreak</text>
+<rect x="72" y="118" width="42" height="42" rx="4" fill="#eaf3ff" stroke="#3f6fa8"/>
+<text x="93" y="134" text-anchor="middle" font-size="12" font-weight="bold" fill="#111">16</text>
+<text x="93" y="148" text-anchor="middle" font-size="7" fill="#333">`</text>
+<rect x="118" y="118" width="42" height="42" rx="4" fill="#eaf3ff" stroke="#3f6fa8"/>
+<text x="139" y="134" text-anchor="middle" font-size="12" font-weight="bold" fill="#111">17</text>
+<text x="139" y="148" text-anchor="middle" font-size="7" fill="#333">1</text>
+<rect x="164" y="118" width="42" height="42" rx="4" fill="#eaf3ff" stroke="#3f6fa8"/>
+<text x="185" y="134" text-anchor="middle" font-size="12" font-weight="bold" fill="#111">18</text>
+<text x="185" y="148" text-anchor="middle" font-size="7" fill="#333">2</text>
+<rect x="210" y="118" width="42" height="42" rx="4" fill="#eaf3ff" stroke="#3f6fa8"/>
+<text x="231" y="134" text-anchor="middle" font-size="12" font-weight="bold" fill="#111">19</text>
+<text x="231" y="148" text-anchor="middle" font-size="7" fill="#333">3</text>
+<rect x="256" y="118" width="42" height="42" rx="4" fill="#eaf3ff" stroke="#3f6fa8"/>
+<text x="277" y="134" text-anchor="middle" font-size="12" font-weight="bold" fill="#111">20</text>
+<text x="277" y="148" text-anchor="middle" font-size="7" fill="#333">4</text>
+<rect x="302" y="118" width="42" height="42" rx="4" fill="#eaf3ff" stroke="#3f6fa8"/>
+<text x="323" y="134" text-anchor="middle" font-size="12" font-weight="bold" fill="#111">21</text>
+<text x="323" y="148" text-anchor="middle" font-size="7" fill="#333">5</text>
+<rect x="348" y="118" width="42" height="42" rx="4" fill="#eaf3ff" stroke="#3f6fa8"/>
+<text x="369" y="134" text-anchor="middle" font-size="12" font-weight="bold" fill="#111">22</text>
+<text x="369" y="148" text-anchor="middle" font-size="7" fill="#333">6</text>
+<rect x="394" y="118" width="42" height="42" rx="4" fill="#eaf3ff" stroke="#3f6fa8"/>
+<text x="415" y="134" text-anchor="middle" font-size="12" font-weight="bold" fill="#111">23</text>
+<text x="415" y="148" text-anchor="middle" font-size="7" fill="#333">7</text>
+<rect x="440" y="118" width="42" height="42" rx="4" fill="#eaf3ff" stroke="#3f6fa8"/>
+<text x="461" y="134" text-anchor="middle" font-size="12" font-weight="bold" fill="#111">24</text>
+<text x="461" y="148" text-anchor="middle" font-size="7" fill="#333">8</text>
+<rect x="486" y="118" width="42" height="42" rx="4" fill="#eaf3ff" stroke="#3f6fa8"/>
+<text x="507" y="134" text-anchor="middle" font-size="12" font-weight="bold" fill="#111">25</text>
+<text x="507" y="148" text-anchor="middle" font-size="7" fill="#333">9</text>
+<rect x="532" y="118" width="42" height="42" rx="4" fill="#eaf3ff" stroke="#3f6fa8"/>
+<text x="553" y="134" text-anchor="middle" font-size="12" font-weight="bold" fill="#111">26</text>
+<text x="553" y="148" text-anchor="middle" font-size="7" fill="#333">0</text>
+<rect x="578" y="118" width="42" height="42" rx="4" fill="#eaf3ff" stroke="#3f6fa8"/>
+<text x="599" y="134" text-anchor="middle" font-size="12" font-weight="bold" fill="#111">27</text>
+<text x="599" y="148" text-anchor="middle" font-size="7" fill="#333">-</text>
+<rect x="624" y="118" width="42" height="42" rx="4" fill="#eaf3ff" stroke="#3f6fa8"/>
+<text x="645" y="134" text-anchor="middle" font-size="12" font-weight="bold" fill="#111">28</text>
+<text x="645" y="148" text-anchor="middle" font-size="7" fill="#333">+</text>
+<rect x="670" y="118" width="42" height="42" rx="4" fill="#eaf3ff" stroke="#3f6fa8"/>
+<text x="691" y="134" text-anchor="middle" font-size="12" font-weight="bold" fill="#111">29</text>
+<text x="691" y="148" text-anchor="middle" font-size="7" fill="#333">Backspace</text>
+<rect x="716" y="72" width="42" height="42" rx="4" fill="#eaf3ff" stroke="#3f6fa8"/>
+<text x="737" y="88" text-anchor="middle" font-size="12" font-weight="bold" fill="#111">30</text>
+<text x="737" y="102" text-anchor="middle" font-size="7" fill="#333">Insert</text>
+<rect x="762" y="118" width="42" height="42" rx="4" fill="#eaf3ff" stroke="#3f6fa8"/>
+<text x="783" y="134" text-anchor="middle" font-size="12" font-weight="bold" fill="#111">31</text>
+<text x="783" y="148" text-anchor="middle" font-size="7" fill="#333">Home</text>
+<rect x="808" y="118" width="42" height="42" rx="4" fill="#eaf3ff" stroke="#3f6fa8"/>
+<text x="829" y="134" text-anchor="middle" font-size="12" font-weight="bold" fill="#111">32</text>
+<text x="829" y="148" text-anchor="middle" font-size="7" fill="#333">PageUp</text>
+<rect x="72" y="164" width="42" height="42" rx="4" fill="#eaf3ff" stroke="#3f6fa8"/>
+<text x="93" y="180" text-anchor="middle" font-size="12" font-weight="bold" fill="#111">33</text>
+<text x="93" y="194" text-anchor="middle" font-size="7" fill="#333">Tab</text>
+<rect x="118" y="164" width="42" height="42" rx="4" fill="#eaf3ff" stroke="#3f6fa8"/>
+<text x="139" y="180" text-anchor="middle" font-size="12" font-weight="bold" fill="#111">34</text>
+<text x="139" y="194" text-anchor="middle" font-size="7" fill="#333">Q</text>
+<rect x="164" y="164" width="42" height="42" rx="4" fill="#eaf3ff" stroke="#3f6fa8"/>
+<text x="185" y="180" text-anchor="middle" font-size="12" font-weight="bold" fill="#111">35</text>
+<text x="185" y="194" text-anchor="middle" font-size="7" fill="#333">W</text>
+<rect x="210" y="164" width="42" height="42" rx="4" fill="#eaf3ff" stroke="#3f6fa8"/>
+<text x="231" y="180" text-anchor="middle" font-size="12" font-weight="bold" fill="#111">36</text>
+<text x="231" y="194" text-anchor="middle" font-size="7" fill="#333">E</text>
+<rect x="256" y="164" width="42" height="42" rx="4" fill="#eaf3ff" stroke="#3f6fa8"/>
+<text x="277" y="180" text-anchor="middle" font-size="12" font-weight="bold" fill="#111">37</text>
+<text x="277" y="194" text-anchor="middle" font-size="7" fill="#333">R</text>
+<rect x="302" y="164" width="42" height="42" rx="4" fill="#eaf3ff" stroke="#3f6fa8"/>
+<text x="323" y="180" text-anchor="middle" font-size="12" font-weight="bold" fill="#111">38</text>
+<text x="323" y="194" text-anchor="middle" font-size="7" fill="#333">T</text>
+<rect x="348" y="164" width="42" height="42" rx="4" fill="#eaf3ff" stroke="#3f6fa8"/>
+<text x="369" y="180" text-anchor="middle" font-size="12" font-weight="bold" fill="#111">39</text>
+<text x="369" y="194" text-anchor="middle" font-size="7" fill="#333">Y</text>
+<rect x="394" y="164" width="42" height="42" rx="4" fill="#eaf3ff" stroke="#3f6fa8"/>
+<text x="415" y="180" text-anchor="middle" font-size="12" font-weight="bold" fill="#111">40</text>
+<text x="415" y="194" text-anchor="middle" font-size="7" fill="#333">U</text>
+<rect x="440" y="164" width="42" height="42" rx="4" fill="#eaf3ff" stroke="#3f6fa8"/>
+<text x="461" y="180" text-anchor="middle" font-size="12" font-weight="bold" fill="#111">41</text>
+<text x="461" y="194" text-anchor="middle" font-size="7" fill="#333">I</text>
+<rect x="486" y="164" width="42" height="42" rx="4" fill="#eaf3ff" stroke="#3f6fa8"/>
+<text x="507" y="180" text-anchor="middle" font-size="12" font-weight="bold" fill="#111">42</text>
+<text x="507" y="194" text-anchor="middle" font-size="7" fill="#333">O</text>
+<rect x="532" y="164" width="42" height="42" rx="4" fill="#eaf3ff" stroke="#3f6fa8"/>
+<text x="553" y="180" text-anchor="middle" font-size="12" font-weight="bold" fill="#111">43</text>
+<text x="553" y="194" text-anchor="middle" font-size="7" fill="#333">P</text>
+<rect x="578" y="164" width="42" height="42" rx="4" fill="#eaf3ff" stroke="#3f6fa8"/>
+<text x="599" y="180" text-anchor="middle" font-size="12" font-weight="bold" fill="#111">44</text>
+<text x="599" y="194" text-anchor="middle" font-size="7" fill="#333">[</text>
+<rect x="624" y="164" width="42" height="42" rx="4" fill="#eaf3ff" stroke="#3f6fa8"/>
+<text x="645" y="180" text-anchor="middle" font-size="12" font-weight="bold" fill="#111">45</text>
+<text x="645" y="194" text-anchor="middle" font-size="7" fill="#333">]</text>
+<rect x="670" y="164" width="42" height="42" rx="4" fill="#eaf3ff" stroke="#3f6fa8"/>
+<text x="691" y="180" text-anchor="middle" font-size="12" font-weight="bold" fill="#111">46</text>
+<text x="691" y="194" text-anchor="middle" font-size="7" fill="#333">\</text>
+<rect x="716" y="118" width="42" height="42" rx="4" fill="#eaf3ff" stroke="#3f6fa8"/>
+<text x="737" y="134" text-anchor="middle" font-size="12" font-weight="bold" fill="#111">47</text>
+<text x="737" y="148" text-anchor="middle" font-size="7" fill="#333">Del</text>
+<rect x="762" y="164" width="42" height="42" rx="4" fill="#eaf3ff" stroke="#3f6fa8"/>
+<text x="783" y="180" text-anchor="middle" font-size="12" font-weight="bold" fill="#111">48</text>
+<text x="783" y="194" text-anchor="middle" font-size="7" fill="#333">End</text>
+<rect x="808" y="164" width="42" height="42" rx="4" fill="#eaf3ff" stroke="#3f6fa8"/>
+<text x="829" y="180" text-anchor="middle" font-size="12" font-weight="bold" fill="#111">49</text>
+<text x="829" y="194" text-anchor="middle" font-size="7" fill="#333">PageDown</text>
+<rect x="72" y="210" width="42" height="42" rx="4" fill="#eaf3ff" stroke="#3f6fa8"/>
+<text x="93" y="226" text-anchor="middle" font-size="12" font-weight="bold" fill="#111">50</text>
+<text x="93" y="240" text-anchor="middle" font-size="7" fill="#333">CapsLock</text>
+<rect x="118" y="210" width="42" height="42" rx="4" fill="#eaf3ff" stroke="#3f6fa8"/>
+<text x="139" y="226" text-anchor="middle" font-size="12" font-weight="bold" fill="#111">51</text>
+<text x="139" y="240" text-anchor="middle" font-size="7" fill="#333">A</text>
+<rect x="164" y="210" width="42" height="42" rx="4" fill="#eaf3ff" stroke="#3f6fa8"/>
+<text x="185" y="226" text-anchor="middle" font-size="12" font-weight="bold" fill="#111">52</text>
+<text x="185" y="240" text-anchor="middle" font-size="7" fill="#333">S</text>
+<rect x="210" y="210" width="42" height="42" rx="4" fill="#eaf3ff" stroke="#3f6fa8"/>
+<text x="231" y="226" text-anchor="middle" font-size="12" font-weight="bold" fill="#111">53</text>
+<text x="231" y="240" text-anchor="middle" font-size="7" fill="#333">D</text>
+<rect x="256" y="210" width="42" height="42" rx="4" fill="#eaf3ff" stroke="#3f6fa8"/>
+<text x="277" y="226" text-anchor="middle" font-size="12" font-weight="bold" fill="#111">54</text>
+<text x="277" y="240" text-anchor="middle" font-size="7" fill="#333">F</text>
+<rect x="302" y="210" width="42" height="42" rx="4" fill="#eaf3ff" stroke="#3f6fa8"/>
+<text x="323" y="226" text-anchor="middle" font-size="12" font-weight="bold" fill="#111">55</text>
+<text x="323" y="240" text-anchor="middle" font-size="7" fill="#333">G</text>
+<rect x="348" y="210" width="42" height="42" rx="4" fill="#eaf3ff" stroke="#3f6fa8"/>
+<text x="369" y="226" text-anchor="middle" font-size="12" font-weight="bold" fill="#111">56</text>
+<text x="369" y="240" text-anchor="middle" font-size="7" fill="#333">H</text>
+<rect x="394" y="210" width="42" height="42" rx="4" fill="#eaf3ff" stroke="#3f6fa8"/>
+<text x="415" y="226" text-anchor="middle" font-size="12" font-weight="bold" fill="#111">57</text>
+<text x="415" y="240" text-anchor="middle" font-size="7" fill="#333">J</text>
+<rect x="440" y="210" width="42" height="42" rx="4" fill="#eaf3ff" stroke="#3f6fa8"/>
+<text x="461" y="226" text-anchor="middle" font-size="12" font-weight="bold" fill="#111">58</text>
+<text x="461" y="240" text-anchor="middle" font-size="7" fill="#333">K</text>
+<rect x="486" y="210" width="42" height="42" rx="4" fill="#eaf3ff" stroke="#3f6fa8"/>
+<text x="507" y="226" text-anchor="middle" font-size="12" font-weight="bold" fill="#111">59</text>
+<text x="507" y="240" text-anchor="middle" font-size="7" fill="#333">L</text>
+<rect x="532" y="210" width="42" height="42" rx="4" fill="#eaf3ff" stroke="#3f6fa8"/>
+<text x="553" y="226" text-anchor="middle" font-size="12" font-weight="bold" fill="#111">60</text>
+<text x="553" y="240" text-anchor="middle" font-size="7" fill="#333">;</text>
+<rect x="578" y="210" width="42" height="42" rx="4" fill="#eaf3ff" stroke="#3f6fa8"/>
+<text x="599" y="226" text-anchor="middle" font-size="12" font-weight="bold" fill="#111">61</text>
+<text x="599" y="240" text-anchor="middle" font-size="7" fill="#333">'</text>
+<rect x="624" y="210" width="42" height="42" rx="4" fill="#eaf3ff" stroke="#3f6fa8"/>
+<text x="645" y="226" text-anchor="middle" font-size="12" font-weight="bold" fill="#111">62</text>
+<text x="645" y="240" text-anchor="middle" font-size="7" fill="#333">Enter</text>
+<rect x="72" y="256" width="42" height="42" rx="4" fill="#eaf3ff" stroke="#3f6fa8"/>
+<text x="93" y="272" text-anchor="middle" font-size="12" font-weight="bold" fill="#111">63</text>
+<text x="93" y="286" text-anchor="middle" font-size="7" fill="#333">LeftShift</text>
+<rect x="118" y="256" width="42" height="42" rx="4" fill="#eaf3ff" stroke="#3f6fa8"/>
+<text x="139" y="272" text-anchor="middle" font-size="12" font-weight="bold" fill="#111">64</text>
+<text x="139" y="286" text-anchor="middle" font-size="7" fill="#333">Z</text>
+<rect x="164" y="256" width="42" height="42" rx="4" fill="#eaf3ff" stroke="#3f6fa8"/>
+<text x="185" y="272" text-anchor="middle" font-size="12" font-weight="bold" fill="#111">65</text>
+<text x="185" y="286" text-anchor="middle" font-size="7" fill="#333">X</text>
+<rect x="210" y="256" width="42" height="42" rx="4" fill="#eaf3ff" stroke="#3f6fa8"/>
+<text x="231" y="272" text-anchor="middle" font-size="12" font-weight="bold" fill="#111">66</text>
+<text x="231" y="286" text-anchor="middle" font-size="7" fill="#333">C</text>
+<rect x="256" y="256" width="42" height="42" rx="4" fill="#eaf3ff" stroke="#3f6fa8"/>
+<text x="277" y="272" text-anchor="middle" font-size="12" font-weight="bold" fill="#111">67</text>
+<text x="277" y="286" text-anchor="middle" font-size="7" fill="#333">V</text>
+<rect x="302" y="256" width="42" height="42" rx="4" fill="#eaf3ff" stroke="#3f6fa8"/>
+<text x="323" y="272" text-anchor="middle" font-size="12" font-weight="bold" fill="#111">68</text>
+<text x="323" y="286" text-anchor="middle" font-size="7" fill="#333">B</text>
+<rect x="348" y="256" width="42" height="42" rx="4" fill="#eaf3ff" stroke="#3f6fa8"/>
+<text x="369" y="272" text-anchor="middle" font-size="12" font-weight="bold" fill="#111">69</text>
+<text x="369" y="286" text-anchor="middle" font-size="7" fill="#333">N</text>
+<rect x="394" y="256" width="42" height="42" rx="4" fill="#eaf3ff" stroke="#3f6fa8"/>
+<text x="415" y="272" text-anchor="middle" font-size="12" font-weight="bold" fill="#111">70</text>
+<text x="415" y="286" text-anchor="middle" font-size="7" fill="#333">M</text>
+<rect x="440" y="256" width="42" height="42" rx="4" fill="#eaf3ff" stroke="#3f6fa8"/>
+<text x="461" y="272" text-anchor="middle" font-size="12" font-weight="bold" fill="#111">71</text>
+<text x="461" y="286" text-anchor="middle" font-size="7" fill="#333">,</text>
+<rect x="486" y="256" width="42" height="42" rx="4" fill="#eaf3ff" stroke="#3f6fa8"/>
+<text x="507" y="272" text-anchor="middle" font-size="12" font-weight="bold" fill="#111">72</text>
+<text x="507" y="286" text-anchor="middle" font-size="7" fill="#333">.</text>
+<rect x="532" y="256" width="42" height="42" rx="4" fill="#eaf3ff" stroke="#3f6fa8"/>
+<text x="553" y="272" text-anchor="middle" font-size="12" font-weight="bold" fill="#111">73</text>
+<text x="553" y="286" text-anchor="middle" font-size="7" fill="#333">/</text>
+<rect x="578" y="256" width="42" height="42" rx="4" fill="#eaf3ff" stroke="#3f6fa8"/>
+<text x="599" y="272" text-anchor="middle" font-size="12" font-weight="bold" fill="#111">74</text>
+<text x="599" y="286" text-anchor="middle" font-size="7" fill="#333">RightShift</text>
+<rect x="762" y="256" width="42" height="42" rx="4" fill="#eaf3ff" stroke="#3f6fa8"/>
+<text x="783" y="272" text-anchor="middle" font-size="12" font-weight="bold" fill="#111">75</text>
+<text x="783" y="286" text-anchor="middle" font-size="7" fill="#333">UpArrow</text>
+<rect x="72" y="302" width="42" height="42" rx="4" fill="#eaf3ff" stroke="#3f6fa8"/>
+<text x="93" y="318" text-anchor="middle" font-size="12" font-weight="bold" fill="#111">76</text>
+<text x="93" y="332" text-anchor="middle" font-size="7" fill="#333">LeftCtrl</text>
+<rect x="118" y="302" width="42" height="42" rx="4" fill="#eaf3ff" stroke="#3f6fa8"/>
+<text x="139" y="318" text-anchor="middle" font-size="12" font-weight="bold" fill="#111">77</text>
+<text x="139" y="332" text-anchor="middle" font-size="7" fill="#333">LeftWin</text>
+<rect x="164" y="302" width="42" height="42" rx="4" fill="#eaf3ff" stroke="#3f6fa8"/>
+<text x="185" y="318" text-anchor="middle" font-size="12" font-weight="bold" fill="#111">78</text>
+<text x="185" y="332" text-anchor="middle" font-size="7" fill="#333">LeftAlt</text>
+<rect x="348" y="302" width="42" height="42" rx="4" fill="#eaf3ff" stroke="#3f6fa8"/>
+<text x="369" y="318" text-anchor="middle" font-size="12" font-weight="bold" fill="#111">79</text>
+<text x="369" y="332" text-anchor="middle" font-size="7" fill="#333">Space</text>
+<rect x="532" y="302" width="42" height="42" rx="4" fill="#eaf3ff" stroke="#3f6fa8"/>
+<text x="553" y="318" text-anchor="middle" font-size="12" font-weight="bold" fill="#111">80</text>
+<text x="553" y="332" text-anchor="middle" font-size="7" fill="#333">RightAlt</text>
+<rect x="578" y="302" width="42" height="42" rx="4" fill="#eaf3ff" stroke="#3f6fa8"/>
+<text x="599" y="318" text-anchor="middle" font-size="12" font-weight="bold" fill="#111">81</text>
+<text x="599" y="332" text-anchor="middle" font-size="7" fill="#333">Fn</text>
+<rect x="624" y="302" width="42" height="42" rx="4" fill="#eaf3ff" stroke="#3f6fa8"/>
+<text x="645" y="318" text-anchor="middle" font-size="12" font-weight="bold" fill="#111">82</text>
+<text x="645" y="332" text-anchor="middle" font-size="7" fill="#333">Menu</text>
+<rect x="670" y="302" width="42" height="42" rx="4" fill="#eaf3ff" stroke="#3f6fa8"/>
+<text x="691" y="318" text-anchor="middle" font-size="12" font-weight="bold" fill="#111">83</text>
+<text x="691" y="332" text-anchor="middle" font-size="7" fill="#333">RightCtrl</text>
+<rect x="716" y="302" width="42" height="42" rx="4" fill="#eaf3ff" stroke="#3f6fa8"/>
+<text x="737" y="318" text-anchor="middle" font-size="12" font-weight="bold" fill="#111">84</text>
+<text x="737" y="332" text-anchor="middle" font-size="7" fill="#333">LeftArrow</text>
+<rect x="762" y="302" width="42" height="42" rx="4" fill="#eaf3ff" stroke="#3f6fa8"/>
+<text x="783" y="318" text-anchor="middle" font-size="12" font-weight="bold" fill="#111">85</text>
+<text x="783" y="332" text-anchor="middle" font-size="7" fill="#333">DownArrow</text>
+<rect x="808" y="302" width="42" height="42" rx="4" fill="#eaf3ff" stroke="#3f6fa8"/>
+<text x="829" y="318" text-anchor="middle" font-size="12" font-weight="bold" fill="#111">86</text>
+<text x="829" y="332" text-anchor="middle" font-size="7" fill="#333">RightArrow</text>
+<rect x="854" y="348" width="42" height="42" rx="4" fill="#f3e3ff" stroke="#8a4fbf"/>
+<text x="875" y="364" text-anchor="middle" font-size="12" font-weight="bold" fill="#111">87</text>
+<text x="875" y="378" text-anchor="middle" font-size="7" fill="#333">UnderGlow1</text>
+<rect x="762" y="348" width="42" height="42" rx="4" fill="#f3e3ff" stroke="#8a4fbf"/>
+<text x="783" y="364" text-anchor="middle" font-size="12" font-weight="bold" fill="#111">88</text>
+<text x="783" y="378" text-anchor="middle" font-size="7" fill="#333">UnderGlow2</text>
+<rect x="670" y="348" width="42" height="42" rx="4" fill="#f3e3ff" stroke="#8a4fbf"/>
+<text x="691" y="364" text-anchor="middle" font-size="12" font-weight="bold" fill="#111">89</text>
+<text x="691" y="378" text-anchor="middle" font-size="7" fill="#333">UnderGlow3</text>
+<rect x="578" y="348" width="42" height="42" rx="4" fill="#f3e3ff" stroke="#8a4fbf"/>
+<text x="599" y="364" text-anchor="middle" font-size="12" font-weight="bold" fill="#111">90</text>
+<text x="599" y="378" text-anchor="middle" font-size="7" fill="#333">UnderGlow4</text>
+<rect x="532" y="348" width="42" height="42" rx="4" fill="#f3e3ff" stroke="#8a4fbf"/>
+<text x="553" y="364" text-anchor="middle" font-size="12" font-weight="bold" fill="#111">91</text>
+<text x="553" y="378" text-anchor="middle" font-size="7" fill="#333">UnderGlow5</text>
+<rect x="486" y="348" width="42" height="42" rx="4" fill="#f3e3ff" stroke="#8a4fbf"/>
+<text x="507" y="364" text-anchor="middle" font-size="12" font-weight="bold" fill="#111">92</text>
+<text x="507" y="378" text-anchor="middle" font-size="7" fill="#333">UnderGlow6</text>
+<rect x="440" y="348" width="42" height="42" rx="4" fill="#f3e3ff" stroke="#8a4fbf"/>
+<text x="461" y="364" text-anchor="middle" font-size="12" font-weight="bold" fill="#111">93</text>
+<text x="461" y="378" text-anchor="middle" font-size="7" fill="#333">UnderGlow7</text>
+<rect x="348" y="348" width="42" height="42" rx="4" fill="#f3e3ff" stroke="#8a4fbf"/>
+<text x="369" y="364" text-anchor="middle" font-size="12" font-weight="bold" fill="#111">94</text>
+<text x="369" y="378" text-anchor="middle" font-size="7" fill="#333">UnderGlow8</text>
+<rect x="302" y="348" width="42" height="42" rx="4" fill="#f3e3ff" stroke="#8a4fbf"/>
+<text x="323" y="364" text-anchor="middle" font-size="12" font-weight="bold" fill="#111">95</text>
+<text x="323" y="378" text-anchor="middle" font-size="7" fill="#333">UnderGlow9</text>
+<rect x="256" y="348" width="42" height="42" rx="4" fill="#f3e3ff" stroke="#8a4fbf"/>
+<text x="277" y="364" text-anchor="middle" font-size="12" font-weight="bold" fill="#111">96</text>
+<text x="277" y="378" text-anchor="middle" font-size="7" fill="#333">UnderGlow10</text>
+<rect x="210" y="348" width="42" height="42" rx="4" fill="#f3e3ff" stroke="#8a4fbf"/>
+<text x="231" y="364" text-anchor="middle" font-size="12" font-weight="bold" fill="#111">97</text>
+<text x="231" y="378" text-anchor="middle" font-size="7" fill="#333">UnderGlow11</text>
+<rect x="118" y="348" width="42" height="42" rx="4" fill="#f3e3ff" stroke="#8a4fbf"/>
+<text x="139" y="364" text-anchor="middle" font-size="12" font-weight="bold" fill="#111">98</text>
+<text x="139" y="378" text-anchor="middle" font-size="7" fill="#333">UnderGlow12</text>
+<rect x="26" y="348" width="42" height="42" rx="4" fill="#f3e3ff" stroke="#8a4fbf"/>
+<text x="47" y="364" text-anchor="middle" font-size="12" font-weight="bold" fill="#111">99</text>
+<text x="47" y="378" text-anchor="middle" font-size="7" fill="#333">Underglow13</text>
+<rect x="26" y="210" width="42" height="42" rx="4" fill="#f3e3ff" stroke="#8a4fbf"/>
+<text x="47" y="226" text-anchor="middle" font-size="12" font-weight="bold" fill="#111">100</text>
+<text x="47" y="240" text-anchor="middle" font-size="7" fill="#333">UnderGlow14</text>
+<rect x="26" y="164" width="42" height="42" rx="4" fill="#f3e3ff" stroke="#8a4fbf"/>
+<text x="47" y="180" text-anchor="middle" font-size="12" font-weight="bold" fill="#111">101</text>
+<text x="47" y="194" text-anchor="middle" font-size="7" fill="#333">UnderGlow15</text>
+<rect x="26" y="118" width="42" height="42" rx="4" fill="#f3e3ff" stroke="#8a4fbf"/>
+<text x="47" y="134" text-anchor="middle" font-size="12" font-weight="bold" fill="#111">102</text>
+<text x="47" y="148" text-anchor="middle" font-size="7" fill="#333">UnderGlow16</text>
+<rect x="26" y="26" width="42" height="42" rx="4" fill="#f3e3ff" stroke="#8a4fbf"/>
+<text x="47" y="42" text-anchor="middle" font-size="12" font-weight="bold" fill="#111">103</text>
+<text x="47" y="56" text-anchor="middle" font-size="7" fill="#333">UnderGlow17</text>
+<rect x="118" y="26" width="42" height="42" rx="4" fill="#f3e3ff" stroke="#8a4fbf"/>
+<text x="139" y="42" text-anchor="middle" font-size="12" font-weight="bold" fill="#111">104</text>
+<text x="139" y="56" text-anchor="middle" font-size="7" fill="#333">UnderGlow18</text>
+<rect x="210" y="26" width="42" height="42" rx="4" fill="#f3e3ff" stroke="#8a4fbf"/>
+<text x="231" y="42" text-anchor="middle" font-size="12" font-weight="bold" fill="#111">105</text>
+<text x="231" y="56" text-anchor="middle" font-size="7" fill="#333">Underglow19</text>
+<rect x="256" y="26" width="42" height="42" rx="4" fill="#f3e3ff" stroke="#8a4fbf"/>
+<text x="277" y="42" text-anchor="middle" font-size="12" font-weight="bold" fill="#111">106</text>
+<text x="277" y="56" text-anchor="middle" font-size="7" fill="#333">Underglow20</text>
+<rect x="302" y="26" width="42" height="42" rx="4" fill="#f3e3ff" stroke="#8a4fbf"/>
+<text x="323" y="42" text-anchor="middle" font-size="12" font-weight="bold" fill="#111">107</text>
+<text x="323" y="56" text-anchor="middle" font-size="7" fill="#333">Underglow21</text>
+<rect x="348" y="26" width="42" height="42" rx="4" fill="#f3e3ff" stroke="#8a4fbf"/>
+<text x="369" y="42" text-anchor="middle" font-size="12" font-weight="bold" fill="#111">108</text>
+<text x="369" y="56" text-anchor="middle" font-size="7" fill="#333">Underglow22</text>
+<rect x="440" y="26" width="42" height="42" rx="4" fill="#f3e3ff" stroke="#8a4fbf"/>
+<text x="461" y="42" text-anchor="middle" font-size="12" font-weight="bold" fill="#111">109</text>
+<text x="461" y="56" text-anchor="middle" font-size="7" fill="#333">Underglow23</text>
+<rect x="486" y="26" width="42" height="42" rx="4" fill="#f3e3ff" stroke="#8a4fbf"/>
+<text x="507" y="42" text-anchor="middle" font-size="12" font-weight="bold" fill="#111">110</text>
+<text x="507" y="56" text-anchor="middle" font-size="7" fill="#333">Underglow24</text>
+<rect x="532" y="26" width="42" height="42" rx="4" fill="#f3e3ff" stroke="#8a4fbf"/>
+<text x="553" y="42" text-anchor="middle" font-size="12" font-weight="bold" fill="#111">111</text>
+<text x="553" y="56" text-anchor="middle" font-size="7" fill="#333">Underglow25</text>
+<rect x="578" y="26" width="42" height="42" rx="4" fill="#f3e3ff" stroke="#8a4fbf"/>
+<text x="599" y="42" text-anchor="middle" font-size="12" font-weight="bold" fill="#111">112</text>
+<text x="599" y="56" text-anchor="middle" font-size="7" fill="#333">Underglow26</text>
+<rect x="670" y="26" width="42" height="42" rx="4" fill="#f3e3ff" stroke="#8a4fbf"/>
+<text x="691" y="42" text-anchor="middle" font-size="12" font-weight="bold" fill="#111">113</text>
+<text x="691" y="56" text-anchor="middle" font-size="7" fill="#333">Underglow27</text>
+<rect x="762" y="26" width="42" height="42" rx="4" fill="#f3e3ff" stroke="#8a4fbf"/>
+<text x="783" y="42" text-anchor="middle" font-size="12" font-weight="bold" fill="#111">114</text>
+<text x="783" y="56" text-anchor="middle" font-size="7" fill="#333">Underglow28</text>
+<rect x="854" y="26" width="42" height="42" rx="4" fill="#f3e3ff" stroke="#8a4fbf"/>
+<text x="875" y="42" text-anchor="middle" font-size="12" font-weight="bold" fill="#111">115</text>
+<text x="875" y="56" text-anchor="middle" font-size="7" fill="#333">Underglow29</text>
+<rect x="854" y="118" width="42" height="42" rx="4" fill="#f3e3ff" stroke="#8a4fbf"/>
+<text x="875" y="134" text-anchor="middle" font-size="12" font-weight="bold" fill="#111">116</text>
+<text x="875" y="148" text-anchor="middle" font-size="7" fill="#333">Underglow30</text>
+<rect x="854" y="164" width="42" height="42" rx="4" fill="#f3e3ff" stroke="#8a4fbf"/>
+<text x="875" y="180" text-anchor="middle" font-size="12" font-weight="bold" fill="#111">117</text>
+<text x="875" y="194" text-anchor="middle" font-size="7" fill="#333">Underglow31</text>
+<rect x="854" y="210" width="42" height="42" rx="4" fill="#f3e3ff" stroke="#8a4fbf"/>
+<text x="875" y="226" text-anchor="middle" font-size="12" font-weight="bold" fill="#111">118</text>
+<text x="875" y="240" text-anchor="middle" font-size="7" fill="#333">Underglow32</text>
+</svg>
